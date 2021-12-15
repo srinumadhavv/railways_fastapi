@@ -8,4 +8,7 @@ Consists of two types of apis:
 User APis: Indicate all the user based activites 
 Admin Apis: Indicate all the Admin based activities
 
+The following indicates the api workflow skeleton 
+
+![Railways Api@2x](https://user-images.githubusercontent.com/43718077/146179195-c71beca5-a56b-4bb5-afbc-4d4928e43ed3.png)
 
